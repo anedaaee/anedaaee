@@ -4,13 +4,14 @@
 
 How am I?
 <br/>
--`Full Stack` Developer
+- `Full Stack` Developer
 - Intrested In `AI` and `Deep Learning`
 - Pianist
 - Love being a `teacher`
 - `Piano` Teacher
   
 What do I do now?
+<br/>
 - 🔭 I’m currently working on `Node js` and `React`
 - 🌱 I’m currently learning `Deep Learning` and `PyTorch`
 - 👯 I’m looking to collaborate on `Front end`
